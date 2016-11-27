@@ -1,6 +1,6 @@
 # CSS-Text-Shadow
 
-![text1](http://i.imgur.com/4Cri5nr.png)
+![text1](http://i.imgur.com/4Cri5nr.png width="50px")
 ![text2](http://i.imgur.com/xxSyiV0.png)
 ![text3](http://i.imgur.com/HlIrXNR.png)
 ![text4](http://i.imgur.com/8xCtb7w.png)
