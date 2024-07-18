@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.column {
+    flex: 1 1 45%;
+    padding: 50px 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    font-size: 4em;
+}
+
+/*-------------  INSET  -------------*/
+.inset {
+    background: #222;
+}
+
+.inset h2 {
+    font-family: Verdana;
+    color: rgba(0, 0, 0, 0.6);
+    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+}
+
+/*-------------  SAHARA  -------------*/
+.sahara {
+    background: #FFF3CD;
+}
+
+.sahara h2 {
+    color: white;
+    font-family: 'Impact', sans-serif;
+    text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
+}
+
+/*-----------  SUPERHERO  -----------*/
+.super {
+    background: #6BF9FB;
+}
+
+.super h2 {
+    font-family: 'Impact', sans-serif;
+    color: white;
+    text-shadow: -10px 10px 0px #00e6e6,
+        -20px 20px 0px #01cccc,
+        -30px 30px 0px #00bdbd;
+}
+
+/*------------  VINTAGE  ------------*/
+.vintage {
+    background: #eee;
+}
+
+.vintage h2 {
+    font-family: NewsGoth Cn BT;
+    color: #6F6F77;
+    text-shadow: 3px 3px 0px #eee, 5px 5px 0px #707070;
+}
+
+/*------------  NEON  ------------*/
+.neon {
+    background: #000;
+}
+
+.neon h2 {
+    font-family: 'Monaco', sans-serif;
+    color: white;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+
+/*-------------  ANAGLYPHIC  ------------*/
+.anaglyphic {
+    background: #fff;
+}
+
+.anaglyphic h2 {
+    text-align: center;
+    color: rgba(0, 116, 232, 0.5);
+    font-family: 'Impact', sans-serif;
+    text-shadow: 7px 7px 0 rgba(232, 0, 164, 0.5);
+}
+
+/*--------------  UTAH  --------------*/
+.utah {
+    background: #3169E8;
+}
+
+.utah h2 {
+    color: #fff;
+    font-family: 'Impact', sans-serif;
+    text-shadow: 0 1px 0 #ccc,
+        0 2px 0 #c9c9c9,
+        0 3px 0 #bbb,
+        0 4px 0 #b9b9b9,
+        0 5px 0 #aaa,
+        0 6px 1px rgba(0, 0, 0, .1),
+        0 0 5px rgba(0, 0, 0, .1),
+        0 1px 3px rgba(0, 0, 0, .3),
+        0 3px 5px rgba(0, 0, 0, .2),
+        0 5px 10px rgba(0, 0, 0, .25),
+        0 10px 10px rgba(0, 0, 0, .2),
+        0 20px 20px rgba(0, 0, 0, .15);
+}
+
+/*------------  BORDERS  ------------*/
+.borders {
+    background: #DEDEDE;
+}
+
+.borders h2 {
+    color: #fff;
+    font-family: 'Impact', sans-serif;
+    text-shadow: 10px 10px 0 #ffd217, 20px 20px 0 #5ac7ff, 30px 30px 0 #ffd217, 40px 40px 0 #5ac7ff;
+}
