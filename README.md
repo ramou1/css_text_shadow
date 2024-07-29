@@ -1,4 +1,4 @@
-# CSS-Text-Shadow
+# CSS Text Shadow
 
  I have explored various uses of the text-shadow CSS property to enhance text styling. Here are six different examples:
 
@@ -13,4 +13,4 @@
 
 Each example demonstrates the versatility and creative potential of the text-shadow property in web design.
 
-![text](https://imgur.com/a/1xOKXPg)
+![text](https://i.imgur.com/sNZKhXX.png)
